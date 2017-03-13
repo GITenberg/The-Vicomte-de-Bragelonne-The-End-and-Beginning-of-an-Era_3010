@@ -1,12 +1,17 @@
 _repo: The-Vicomte-de-Bragelonne-The-End-and-Beginning-of-an-Era_3010
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Project Gutenberg Dumas Commentary
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bursey, John
     gutenberg_agent_id: '4960'
     url: http://www.gutenberg.org/2009/agents/4960
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3010#The-Vicomte-de-Bragelonne-The-End-and-Beginning-of-an-Era
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
