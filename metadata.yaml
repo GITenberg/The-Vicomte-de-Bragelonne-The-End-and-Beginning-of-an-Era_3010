@@ -1,5 +1,5 @@
 _repo: The-Vicomte-de-Bragelonne-The-End-and-Beginning-of-an-Era_3010
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Project Gutenberg Dumas Commentary
 covers:
 - cover_type: generated
@@ -23,5 +23,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Dumas, Alexandre, 1802-1870. Vicomte de Bragelonne'
 - !lcc 'PQ'
+- GITenberg
 title: 'The Vicomte de Bragelonne: The End and Beginning of an Era'
 url: http://www.gutenberg.org/ebooks/3010
